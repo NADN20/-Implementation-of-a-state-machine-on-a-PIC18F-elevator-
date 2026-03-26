@@ -140,10 +140,4 @@ Main outputs:
 
 ## Documentation Source
 
-Some diagrams and PCB visuals included in this README were extracted from the final project report:
-
-`Rapport de PFE final _Nader_Noomen.pdf`
-
-## Suggested Repository Name
-
-`pic18f-elevator-control-board`
+Some diagrams and PCB visuals included in this README 
